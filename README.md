@@ -16,7 +16,7 @@ This repository provides a zero-cost, local annotation pipeline using a quantize
 ## Prerequisites
 
 * **Python 3.8+**
-* At least **8 CPU threads** recommended
+* At least **4 CPU threads** recommended
 * \~8 GB free disk space for the model (.gguf \~4 GB)
 
 ## Python Environment Setup
