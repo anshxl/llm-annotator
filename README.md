@@ -92,7 +92,7 @@ cd ../../
 
 ## Downloading a Quantized Model
 
-We recommend Meta’s LLaMA 2‑7B in GGUF Q4\_K\_M format (4 GB). Example using the Hugging Face CLI:
+We recommend Meta’s LLaMA 2‑7B in GGUF Q4\_K\_M format (4 GB). For even smaller model options, we recommend TinyLlama 1.1B with GGUF Q4\_K\_M format (700 MB). Example using the Hugging Face CLI:
 
 ```bash
 # Install and login
